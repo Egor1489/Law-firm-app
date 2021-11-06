@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021.11.06 12:07:46.096.pas,C:\Users\User\Documents\Borland Studio Projects\Unit1.pas=C:\Users\User\Documents\Borland Studio Projects\UnitMain.pas</Transaction>
+    <Transaction>2021.11.06 12:07:46.096.dfm,C:\Users\User\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\User\Documents\Borland Studio Projects\UnitMain.dfm</Transaction>
+    <Transaction>2021.11.06 12:11:00.429.pas,C:\Users\User\Documents\Borland Studio Projects\Unit1.pas=C:\Users\User\Documents\Borland Studio Projects\UnitZakaz.pas</Transaction>
+    <Transaction>2021.11.06 12:11:00.429.dfm,C:\Users\User\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\User\Documents\Borland Studio Projects\UnitZakaz.dfm</Transaction>
+    <Transaction>2021.11.06 12:18:24.646.bdsproj,C:\Users\User\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\User\Desktop\delphi\Project1.bdsproj</Transaction>
+    <Transaction>2021.11.06 12:19:37.594.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitBD.pas</Transaction>
+    <Transaction>2021.11.06 12:19:37.594.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitBD.dfm</Transaction>
+    <Transaction>2021.11.06 12:27:46.217.bdsproj,C:\Users\User\Desktop\delphi\Project1.bdsproj=C:\Users\User\Desktop\delphi\Project.bdsproj</Transaction>
+    <Transaction>2021.11.06 12:40:35.288.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitSortZakaz.pas</Transaction>
+    <Transaction>2021.11.06 12:40:35.288.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitSortZakaz.dfm</Transaction>
+    <Transaction>2021.11.06 12:45:40.192.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitAdd.pas</Transaction>
+    <Transaction>2021.11.06 12:45:40.192.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitAdd.dfm</Transaction>
+    <Transaction>2021.11.06 13:52:29.564.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitSelectType.pas</Transaction>
+    <Transaction>2021.11.06 13:52:29.564.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitSelectType.dfm</Transaction>
+    <Transaction>2021.11.06 13:58:22.597.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitZakazAddNew.pas</Transaction>
+    <Transaction>2021.11.06 13:58:22.597.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitZakazAddNew.dfm</Transaction>
+    <Transaction>2021.11.06 14:28:17.479.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitKlient.pas</Transaction>
+    <Transaction>2021.11.06 14:28:17.479.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitKlient.dfm</Transaction>
+    <Transaction>2021.11.06 14:40:45.044.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitKlientAdd.pas</Transaction>
+    <Transaction>2021.11.06 14:40:45.044.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitKlientAdd.dfm</Transaction>
+    <Transaction>2021.11.06 14:45:01.446.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitDogovor.pas</Transaction>
+    <Transaction>2021.11.06 14:45:01.446.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitDogovor.dfm</Transaction>
+    <Transaction>2021.11.06 14:55:09.524.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitDogovorAdd.pas</Transaction>
+    <Transaction>2021.11.06 14:55:09.524.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitDogovorAdd.dfm</Transaction>
+    <Transaction>2021.11.06 14:58:54.077.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitUslugi.pas</Transaction>
+    <Transaction>2021.11.06 14:58:54.077.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitUslugi.dfm</Transaction>
+    <Transaction>2021.11.06 15:13:39.599.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitUslugiAdd.pas</Transaction>
+    <Transaction>2021.11.06 15:13:39.599.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitUslugiAdd.dfm</Transaction>
+    <Transaction>2021.11.06 15:17:47.614.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitSotrudniki.pas</Transaction>
+    <Transaction>2021.11.06 15:17:47.614.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitSotrudniki.dfm</Transaction>
+    <Transaction>2021.11.06 15:29:13.407.pas,C:\Users\User\Desktop\delphi\Unit1.pas=C:\Users\User\Desktop\delphi\UnitSotrudnikiAdd.pas</Transaction>
+    <Transaction>2021.11.06 15:29:13.407.dfm,C:\Users\User\Desktop\delphi\Unit1.dfm=C:\Users\User\Desktop\delphi\UnitSotrudnikiAdd.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
